@@ -1,4 +1,4 @@
-# Data Pipelines with Apache Airflow
+# Working with Data Pipelines in Apache Airflow
 
 Code accompanying the Manning book [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow).
 
